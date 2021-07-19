@@ -56,7 +56,7 @@ Collapsed sidebar
 
 <a name="data"></a>
 ### **3.3 Data Display**
-To the right of the sidebar we can find the data display area. Here is shown the content of the folders (if there is no content, its shown a "Zero page" indicating this situation).
+To the right of the sidebar we can find the data display area. Here is shown the content of the folders (if there is no content, a "Zero page" its shown indicating this situation).
 
 Folder with content
 
@@ -67,10 +67,22 @@ Empty folder
 ![folder-e](/img/empty-folder.png "Empty folder")
 
 
+<a name="manipulation"></a>
+### **3.4 Data Manipulation**
+
+<a name="create"></a>
+#### **3.4.1 Creating folders/dashboards"**
+As we saw in the previous section, there is a "New" button. If it is clicked, it appears an interface with a form to indicate the folder/dashboard name and description.
+
+Create new folder interface
+
+![create-f](/img/create-f.png "Create new folder")
+
+Create new dashboard interface
+
+![create-d](/img/create-d.png "Create new dashboard")
 
 
-<a name=""></a>
-<a name=""></a>
 <a name=""></a>
 <a name=""></a>
 

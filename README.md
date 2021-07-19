@@ -36,7 +36,7 @@ Design an atractive and intuitive interface for users usage. The design of the u
 
 <a name="header"></a>
 ### **3.1 Header**
-As mentioned before, we've designed the header following the standard of the company.
+As mentioned before, we have designed the header following the standard of the company.
 
 ![header](/img/header.png "Web header")
 
@@ -54,8 +54,19 @@ Collapsed sidebar
 ![sidebar-c](/img/sidebar-collapsed.png "Sidebar collapsed")
 
 
-
 <a name="data"></a>
+### **3.3 Data Display**
+To the right of the sidebar we can find the data display area. Here is shown the content of the folders (if there is no content, its shown a "Zero page" indicating this situation).
+
+Folder with content
+
+![folder-c](/img/folder-w-content.png "Folder with content")
+
+Empty folder
+
+![folder-e](/img/empty-folder.png "Empty folder")
+
+
 
 
 <a name=""></a>

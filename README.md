@@ -45,10 +45,12 @@ As mentioned before, we've designed the header following the standard of the com
 The sidebar contains the navigation feature along the folders. Selecting a folder, it expands showing its content (if it has). The content is also shown in the data display area (detailed in the next section). It can also be collapsed, so the data display area fits a bigger area.
 
 Sidebar navigation
+
 ![sidebar-n](/img/sidebar-navigate.png "Sidebar navigate")
 
 Collapsed sidebar
-![sidebar-c](/img/sidebar.collapsed.png "Sidebar collapsed")
+
+![sidebar-c](/img/sidebar-collapsed.png "Sidebar collapsed")
 
 
 

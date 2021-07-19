@@ -1,6 +1,6 @@
 <div align="center">
-<h1> PROJECT NUMA <br>
-DISCOVERY BOOK</h1>
+        <h1> PROJECT NUMA <br>
+        DISCOVERY BOOK</h1>
 </div>
 
 ## Index
@@ -128,7 +128,30 @@ Wrong search
 
 <a name="api"></a>
 ### **3.5 Security and API connection**
+Back-end is in charge of managing the security of our page, with various parameters, which we will then have to put in our front-end code
 
+Endpoint
+ 
+![endpoint-f](/img/endpoint-f.png "Endpoint") 
+
+Obtaining credentials from the Back-End
+
+![productioncr-f](/img/production-credentials.png "Production credentials")
+
+
+We control the actions that the user can do by enabling/disabling the "New" button and the trhee points section on the display area rows.
+
+"Create new" button disabled
+
+![create-new-disabled](/img/create-new-disabled.png "Create new button disabled")
+
+"New" button disabled:
+
+![new-disabled](/img/new-disabled.png "New button disabled")
+
+Row points disabled:
+
+![points-disabled](/img/points-disabled.png "Row points disabled")
 
 
 <a name="resources"></a>

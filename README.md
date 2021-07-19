@@ -15,7 +15,7 @@ DISCOVERY BOOK</h1>
         &emsp; 3.4.2 [Editing folders and dashboards](#edit)  
         &emsp; 3.4.3 [Delete folders and dashboards](#delete)  
         &emsp; 3.4.4 [Search](#search)  
-        3.5 [API connection](#api)
+        3.5 [Security and API connection](#api)
 
 4. [Resources](#resources)  
         4.1 [Prerequisites](#prerequisites)  
@@ -84,10 +84,16 @@ Create new dashboard interface
 
 
 <a name="edit"></a>
+#### 3.4.2 Editing folders/dashboards"
+This part is exactly the same as the creating one. The only difference is that the data of the folder/dashboard we are editing will be shown in the interface text boxes.
 
+Edit new folder interface
 
+![edit-f](/img/edit-f.png "Edit new folder")
 
+Edit new dashboard interface
 
+![edit-d](/img/edit-d.png "Edit new dashboard")
 
 
 <a name="delete"></a>

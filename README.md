@@ -111,11 +111,11 @@ In order to be able to use the project we need:
 ### **4.2 Download the project**
 To download the project you have 2 ways:
 * The first one is the simplest but the bad.
-        - In the upper left part of the container where the project is shown a green button (code), if you click on it a tab will appear, in the lower part click on download zip and a zip of the project will be downloaded.
+⋅⋅- In the upper left part of the container where the project is shown a green button (code), if you click on it a tab will appear, in the lower part click on download zip and a zip of the project will be downloaded.
 * The second is the best option because we can play with the git infrastructure.
-        - For this we need to have git installed on the pc.
-        - We create a parent folder and inside it 2 children, front and back.
-        - We go into the front folder and check that there is no ls -la element. To clone the repository we use the command:
+⋅⋅- For this we need to have git installed on the pc.
+⋅⋅- We create a parent folder and inside it 2 children, front and back.
+⋅⋅- We go into the front folder and check that there is no ls -la element. To clone the repository we use the command:
 
 >``git clone git@github.com:Stratio/governance-dashboards-drive-ui.git``
      

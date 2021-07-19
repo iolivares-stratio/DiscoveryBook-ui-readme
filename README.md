@@ -36,14 +36,23 @@ Design an atractive and intuitive interface for users usage. The design of the u
 
 <a name="header"></a>
 ### **3.1 Header**
-As mentioned before, we designed the hader following the standard of the company.
+As mentioned before, we've designed the header following the standard of the company.
+
 ![header](/img/header.png "Web header")
 
 
-<a name=""></a>
+<a name="sidebar"></a>
+The sidebar contains the navigation feature along the folders. Selecting a folder, it expands showing its content (if it has). The content is also shown in the data display area (detailed in the next section). It can also be collapsed, so the data display area fits a bigger area.
+
+Sidebar navigation
+![sidebar-n](/img/sidebar-navigate.png "Sidebar navigate")
+
+Collapsed sidebar
+![sidebar-c](/img/sidebar.collapsed.png "Sidebar collapsed")
 
 
-<a name=""></a>
+
+<a name="data"></a>
 
 
 <a name=""></a>

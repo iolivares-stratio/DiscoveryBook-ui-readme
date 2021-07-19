@@ -118,7 +118,6 @@ To download the project you have 2 ways:
         - We go into the front folder and check that it is empty with the following command: 
 
 >``ls -la``
-
         - To clone the repository we use the command:
 
 >``git clone git@github.com:Stratio/governance-dashboards-drive-ui.git``

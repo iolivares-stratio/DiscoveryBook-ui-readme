@@ -85,7 +85,7 @@ Create new dashboard interface
 
 <a name="edit"></a>
 #### 3.4.2 Editing folders/dashboards"
-This part is exactly the same as the creating one. The only difference is that the data of the folder/dashboard we are editing will be shown in the interface text boxes.
+In the body of the project we find a table where we can see the different contents of a folder. It can be a folder or a dashboard. Inside an element we can find three points at the right side of the row. When we click on it, we will see some actions to perform, one of them is the "edit" action. This part is exactly the same as the creating one. The only difference is that the data of the folder/dashboard we are editing will be shown in the interface text boxes.
 
 Edit new folder interface
 
@@ -97,6 +97,16 @@ Edit new dashboard interface
 
 
 <a name="delete"></a>
+### 3.4.3 Delete folders/dashboards 
+We can delete folders/dashboards by clicking ons the three points we explainted in the previous section, and seleting "Delete".
+
+![delete-element](/img/delete-element.png "Delete element")
+
+If we click on delete we will get an alert, so we can confirm if we want to delete it or not. 
+
+![delete-element-confirm](/img/delete-element-confirm.png "Delete element confirm")
+
+
 <a name=""></a>
 <a name=""></a>
 <a name=""></a>
@@ -117,12 +127,12 @@ In order to be able to use the project we need:
 ### **4.2 Download the project**
 To download the project you have 2 ways:
 * The first one is the simplest but the bad.  
-        - In the upper left part of the container where the project is, it is shown a green button (code). If you click on it a tab will appear, in the lower part click on download zip and a zip of the project will be downloaded.
+        - Go to the [project's repository](https://github.com/Stratio/governance-dashboards-drive-ui) in Github. In the upper left part of the container where the project is, it is shown a green button (code). If you click on it a tab will appear, in the lower part click on download zip and a zip of the project will be downloaded.
 * The second is the best option because we can play with the git infrastructure.  
         - For this we need to have git installed on the pc.  
-        - We create a parent folder and inside it 2 children: front and back.  
-        - We go into the front folder and check that it is empty.  
-        - To clone the repository we use the command:
+        - Create a parent folder and inside it 2 children: front and back.  
+        - Go into the front folder and check that it is empty.  
+        - Clone the repository we use the command:
 
 >``git clone git@github.com:Stratio/governance-dashboards-drive-ui.git``
      

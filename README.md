@@ -25,7 +25,7 @@
 
 <a name="introduction"></a>
 ## **1. Introduction**
-This is a guide for the Front-End of the project "Discovery Book" developed by Padawan Team during Numa 6.0. Please remember to check the [*Back-End Readme*](https://www.google.es).
+This is a guide for the Front-End of the project "Discovery Book" developed by Padawan Team during Numa 6.0. Please remember to check the [*Back-End Readme*](https://github.com/Stratio/governance-dashboards-drive/blob/master/README.md)
 
 <a name="objectives"></a>
 ## **2. Objectives**
@@ -45,11 +45,11 @@ As mentioned before, we have designed the header following the standard of the c
 ### **3.2 Sidebar**
 The sidebar contains the navigation feature along the folders. Selecting a folder, it expands showing its content (if it has). The content is also shown in the data display area (detailed in the next section). It can also be collapsed, so the data display area fits a bigger area.
 
-Sidebar navigation
+Sidebar navigation:
 
 ![sidebar-n](/img/sidebar-navigate.png "Sidebar navigate")
 
-Collapsed sidebar
+Collapsed sidebar:
 
 ![sidebar-c](/img/sidebar-collapsed.png "Sidebar collapsed")
 
@@ -58,11 +58,11 @@ Collapsed sidebar
 ### **3.3 Data Display**
 To the right of the sidebar we can find the data display area. Here is shown the content of the folders (if there is no content, a "Zero page" its shown indicating this situation).
 
-Folder with content
+Folder with content:
 
 ![folder-c](/img/folder-w-content.png "Folder with content")
 
-Empty folder
+Empty folder:
 
 ![folder-e](/img/empty-folder.png "Empty folder")
 
@@ -74,11 +74,11 @@ Empty folder
 #### **3.4.1 Creating folders/dashboards"**
 As we saw in the previous section, there is a "New" button. If it is clicked, it appears an interface with a form to indicate the folder/dashboard name and description.
 
-Create new folder interface
+Create new folder interface:
 
 ![create-f](/img/create-f.png "Create new folder")
 
-Create new dashboard interface
+Create new dashboard interface:
 
 ![create-d](/img/create-d.png "Create new dashboard")
 
@@ -87,15 +87,15 @@ Create new dashboard interface
 #### 3.4.2 Editing folders/dashboards"
 In the body of the project we find a table where we can see the different contents of a folder. It can be a folder or a dashboard. Inside an element we can find three points at the right side of the row. When we click on it, we will see some actions to perform, one of them is the "edit" action. This part is exactly the same as the creating one. The only difference is that the data of the folder/dashboard we are editing will be shown in the interface text boxes.
 
-Drop down menu location
+Drop down menu location:
 
 ![drop-down](/img/delete-element.png "Drop down menu")
 
-Edit folder interface
+Edit folder interface:
 
 ![edit-f](/img/edit-f.png "Edit new folder")
 
-Edit dashboard interface
+Edit dashboard interface:
 
 ![edit-d](/img/edit-d.png "Edit new dashboard")
 
@@ -115,13 +115,13 @@ If we click on delete we will get an alert, so we can confirm if we want to dele
 #### 3.4.4 Searching folders/dashboards
 On the top of the main page, you can search the folder or dashboard that you are looking for. It is important to know that you have to stay inside the folder where the element you are looking for its located. Otherwise you will not find it.
 
-Search folder
+Search folder:
 
 ![search-f](/img/search-f.png "Search folder")
 
 We can see that if we are inside the folder "Certifications" and we search "people analitycs" thar belongs to a different folder, the search is wrong.
 
-Wrong search
+Wrong search:
 
 ![Wrongsearch-f](/img/wrong-search-f.png "Wrong search")
 
@@ -141,7 +141,7 @@ Obtaining credentials from the Back-End
 
 We control the actions that the user can do by enabling/disabling the "New" button and the trhee points section on the display area rows.
 
-"Create new" button disabled
+"Create new" button disabled:
 
 ![create-new-disabled](/img/create-new-disabled.png "Create new button disabled")
 

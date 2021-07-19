@@ -42,6 +42,7 @@ As mentioned before, we've designed the header following the standard of the com
 
 
 <a name="sidebar"></a>
+### **3.2 Sidebar**
 The sidebar contains the navigation feature along the folders. Selecting a folder, it expands showing its content (if it has). The content is also shown in the data display area (detailed in the next section). It can also be collapsed, so the data display area fits a bigger area.
 
 Sidebar navigation

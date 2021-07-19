@@ -115,9 +115,7 @@ To download the project you have 2 ways:
 * The second is the best option because we can play with the git infrastructure.  
         - For this we need to have git installed on the pc.  
         - We create a parent folder and inside it 2 children: front and back.  
-        - We go into the front folder and check that it is empty with the following command: 
-
->``ls -la``
+        - We go into the front folder and check that it is empty.  
         - To clone the repository we use the command:
 
 >``git clone git@github.com:Stratio/governance-dashboards-drive-ui.git``

@@ -87,11 +87,15 @@ Create new dashboard interface
 #### 3.4.2 Editing folders/dashboards"
 In the body of the project we find a table where we can see the different contents of a folder. It can be a folder or a dashboard. Inside an element we can find three points at the right side of the row. When we click on it, we will see some actions to perform, one of them is the "edit" action. This part is exactly the same as the creating one. The only difference is that the data of the folder/dashboard we are editing will be shown in the interface text boxes.
 
-Edit new folder interface
+Drop down menu location
+
+![drop-down](/img/delete-element.png "Drop down menu")
+
+Edit folder interface
 
 ![edit-f](/img/edit-f.png "Edit new folder")
 
-Edit new dashboard interface
+Edit dashboard interface
 
 ![edit-d](/img/edit-d.png "Edit new dashboard")
 
@@ -107,14 +111,29 @@ If we click on delete we will get an alert, so we can confirm if we want to dele
 ![delete-element-confirm](/img/delete-element-confirm.png "Delete element confirm")
 
 
-<a name=""></a>
-<a name=""></a>
-<a name=""></a>
-<a name=""></a>
-<a name=""></a>
-<a name=""></a>
-<a name=""></a>
-<a name=""></a>
+<a name="search"></a>
+#### 3.4.4 Searching folders/dashboards
+On the top of the main page, you can search the folder or dashboard that you are looking for. It is important to know that you have to stay inside the folder where the element you are looking for its located. Otherwise you will not find it.
+
+Search folder
+
+![search-f](/img/search-f.png "Search folder")
+
+We can see that if we are inside the folder "Certifications" and we search "people analitycs" thar belongs to a different folder, the search is wrong.
+
+Wrong search
+
+![Wrongsearch-f](/img/wrong-search-f.png "Wrong search")
+
+
+<a name="api"></a>
+### **3.5 Security and API connection**
+
+
+
+<a name="resources"></a>
+## **4. Resources**
+
 
 <a name="prerequisites"></a> 
 ### **4.1 Prerequisites**

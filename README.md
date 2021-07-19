@@ -1,13 +1,12 @@
-<div  align="center">
+<div align="center">
 <h1> PROJECT NUMA <br>
 DISCOVERY BOOK</h1>
 </div>
 
 ## Index
-- [Index](#index)
-- [**1. Introduction**](#1-introduction)
-- [**2. Objectives**](#2-objectives)
-- [**3. Functionalities**](#3-functionalities)
+1. [Introduction](#introduction)
+2. [Objectives](#objectives)
+3. [Functionalities](#functionalities)
         3.1 [Header](#header)
         3.2 [Sidebar](#sidebar)
         3.3 [Data display](#data)
@@ -26,33 +25,6 @@ DISCOVERY BOOK</h1>
 <a name="introduction"></a>
 ## **1. Introduction**
 This is a guide for the Front-End of the project "Discovery Book" developed by Padawan Team during Numa 6.0. Please remember to check the [*Back-End Readme*](https://www.google.es).
-
-a
-a
-a
-a
-a
-a
-a
-a
-a
-a
-a
-a
-a
-a
-a
-a
-a
-a
-a
-a
-a
-a
-a
-a
-a
-a
 
 <a name="objectives"></a>
 ## **2. Objectives**

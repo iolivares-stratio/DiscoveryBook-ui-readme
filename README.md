@@ -6,7 +6,7 @@ DISCOVERY BOOK</h1>
 ## Index
 1. [Introduction](#introduction)
 2. [Objectives](#objectives)
-3. [Functionalities](#functionalities)
+3. [Functionalities](#funcs)
         3.1 [Header](#header)
         3.2 [Sidebar](#sidebar)
         3.3 [Data display](#data)

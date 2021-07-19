@@ -102,15 +102,15 @@ Create new dashboard interface
 
 <a name="prerequisites"></a> 
 ### **4.1 Prerequisites**
-In order to be able to use the project we need :
-        * A code editor, we recommend using Visual Studio Code.
-        * We need to have angular cli installed and node js.
-        * In order to run the project properly and not get permissions or connectivity errors, you must go to [Back](https://github.com/Stratio/governance-dashboards-drive) to    download and implement the part of the back, in the repository it is contemplated and  its installation is detailed.
+In order to be able to use the project we need:
+* A code editor, we recommend using Visual Studio Code.
+* We need to have angular cli installed and node js.
+* In order to run the project properly and not get permissions or connectivity errors, you must go to [Back](https://github.com/Stratio/governance-dashboards-drive) to    download and implement the part of the back, in the repository it is contemplated and  its installation is detailed.
 
 <a name="download"></a>
 ### **4.2 Download the project**
 To download the project you have 2 ways:
-* The first one is the simplest but the bad. 
+* The first one is the simplest but the bad.
         - In the upper left part of the container where the project is shown a green button (code), if you click on it a tab will appear, in the lower part click on download zip and a zip of the project will be downloaded.
 * The second is the best option because we can play with the git infrastructure.
         - For this we need to have git installed on the pc.
